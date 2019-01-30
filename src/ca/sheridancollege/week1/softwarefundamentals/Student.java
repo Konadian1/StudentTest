@@ -58,7 +58,7 @@ public class Student {
     }
    
 
-    /** hahahahahaha oh no mistake ahhh!
+    /** hahahahahaha
      * Get the value of string
      *
      * @return the value of string
